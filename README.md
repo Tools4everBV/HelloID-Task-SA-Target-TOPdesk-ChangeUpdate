@@ -16,6 +16,7 @@ This code snippet will update an change within TOPdesk and executes the followin
 ```json
 {
     "id": "dfa38bc0-5ca6-4222-8cbe-8ab071c58f9d",
+    "number": "W2312 030",
     "updates": [
         {
             "op": "replace",
